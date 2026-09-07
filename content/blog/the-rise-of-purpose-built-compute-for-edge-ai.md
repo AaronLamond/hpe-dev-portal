@@ -1,6 +1,6 @@
 ---
 title: The rise of purpose-built compute for Edge AI
-date: 2026-09-09T07:00:00.000Z
+date: 2026-09-08T07:00:00.000Z
 author: Aaron Lamond | Enterprise AI Marketing | HPE ProLiant
 authorimage: /img/aaron-lamond-2.jpg
 disable: false
